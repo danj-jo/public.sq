@@ -18,7 +18,7 @@ close
         </ul>
         </nav> : <nav className="p-6 flex justify-between ">
             <ul className="flex justify-between">
-        <li className="lg:mr-36"> <a href="./"> <img src="img/stylenest.svg" className=""/></a></li>
+        <li className="lg:mr-36"> <a href="./"> <img src="img/stylenest.svg" className="w-[130px]"/></a></li>
     
         <ul className=" hidden lg:flex mt-1">
             <li className="mr-12">

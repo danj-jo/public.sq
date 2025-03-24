@@ -18,6 +18,9 @@ export default defineConfig({
         v3_singleFetch: true,
         v3_lazyRouteDiscovery: true,
       },
+      serverModuleFormat: "esm",
+      unstable_hmr: true,
+     unstable_cssSideEffectImports: true // Required for CSS HMR
     }),
     tsconfigPaths(),
   ],

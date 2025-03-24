@@ -8,8 +8,15 @@ body {
   margin: 0;
   padding: 0;
   background-color: white;
-
- 
 }
 
+@font-face {
+  font-family: 'NotoSans-SemiBold'; 
+  src: url('NotoSans-SemiBold.ttf');
+}
 
+@font-face {
+  font-family: 'NotoSans-Regular'; 
+  src: url('NotoSans-Regular.ttf');
+
+}

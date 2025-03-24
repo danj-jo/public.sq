@@ -15,6 +15,8 @@ export default {
           "Segoe UI Symbol",
           "Noto Color Emoji",
         ],
+        'NotoSans-SemiBold': ['NotoSans-SemiBold', 'sans-serif'],
+        'NotoSans-Regular': ['NotoSans-Regular', 'sans-serif']
       },
     },
   },
