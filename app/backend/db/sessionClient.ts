@@ -32,5 +32,7 @@ console.log(noDuplicatesInventory)
 return noDuplicatesInventory
 }
 
+export const productSectionImages = ({[images], })
+
 // search by object id, not name id 
 // return images 

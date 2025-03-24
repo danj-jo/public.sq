@@ -15,6 +15,7 @@ export const inventory: Collection = database.collection('inventory')
 export const products: Collection = database.collection('products')
 export const productImages: Collection = database.collection('product-images')
 export const categories: Collection = database.collection('categories')
+export const merged: Collection = database.collection('merged')
 
 export const connect = async () => {
     try {
